@@ -93,7 +93,7 @@ export default function IndexPage() {
           <button
             onClick={loadList}
             type="button"
-            className="mt-6 bg-gray-400 text-white font-bold px-8 py-4 rounded-lg shadow-lg"
+            className="mt-6 bg-gray-600 text-white font-bold px-8 py-4 rounded-lg shadow-lg"
           >
             Refresh
           </button>
